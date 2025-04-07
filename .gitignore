@@ -89,3 +89,7 @@ dictionary.dic
 .ipynb_checkpoints/
 notebooks/state_of_the_union.txt
 notebooks/energy_dataset.csv.zip
+
+
+notebooks/*.pdf
+.webui_secret_key
